@@ -39,7 +39,7 @@ Database: MongoDB
 
 ## Setup Instructions
 
-1. //https://github.com/bcde123/college-management-system
+1. https://github.com/bcde123/college-management-system
 2. **Install dependencies:**
 
    ```bash
