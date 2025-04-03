@@ -159,7 +159,7 @@ const Profile = () => {
             )}
           </div>
           <img
-            // src={process.env.REACT_APP_MEDIA_LINK + "/" + data.profile}
+            // src={https://college-management-system-p529.onrender.com/media + "/" + data.profile}
             src="https://t3.ftcdn.net/jpg/02/03/40/20/360_F_203402061_1nSZ5lt348w8E0suHMggk5pEQ4LGhePZ.jpg"
             alt="student profile"
             className="h-[200px] w-[200px] object-cover rounded-lg shadow-md"

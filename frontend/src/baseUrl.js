@@ -1,3 +1,3 @@
 export const baseApiURL = () => {
-  return process.env.REACT_APP_APILINK;
+  return "https://college-management-system-p529.onrender.com/api";
 };

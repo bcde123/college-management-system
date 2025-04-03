@@ -349,7 +349,7 @@ const EditStudent = () => {
           {!previewImage && data.profile && (
             <div className="w-full flex justify-center items-center">
               <img
-                src={process.env.REACT_APP_MEDIA_LINK + "/" + data.profile}
+                src={"https://college-management-system-p529.onrender.com/media" + "/" + data.profile}
                 alt="student"
                 className="h-36"
               />

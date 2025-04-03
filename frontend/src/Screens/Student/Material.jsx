@@ -100,7 +100,7 @@ const Material = () => {
                     onClick={() =>
                       item.link &&
                       window.open(
-                        process.env.REACT_APP_MEDIA_LINK + "/" + item.link
+                        "https://college-management-system-p529.onrender.com/media" + "/" + item.link
                       )
                     }
                   >
