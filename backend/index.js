@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 const path = require("path");
 connectToMongo();
-const port = 5001 || process.env.PORT;
+const port = 5001 ;
 var cors = require("cors");
 const attendanceRouter = require("./routes/Other Api/attendance.route");
 app.use(
