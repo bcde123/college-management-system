@@ -1,6 +1,6 @@
 # ScholarConnect
 
-The ScholarConnect is a website for College Management System. It is a MERN Stack-based system with three different login portals for students, faculty, and admin.
+The ScholarConnect is a website for College Management System. It is a MERN Stack-based system with three different login portals for students, faculty, and admin.You can see the deployed project here https://flourishing-concha-e2b399.netlify.app/
 
 ## Tech Stack
 
