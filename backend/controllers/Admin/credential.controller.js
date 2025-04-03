@@ -2,6 +2,8 @@ const adminCredential = require("../../models/Admin/credential.model.js");
 
 const loginHandler = async (req, res) => {
     let { loginid, password } = req.body;
+    console.log(loginid);
+    console.log(password)
     try {
         let user = await adminCredential.findOne({ loginid });
         if (!user) {
