@@ -39,7 +39,7 @@ Database: MongoDB
 
 ## Setup Instructions
 
-1. //https://github.com/Shilpi05/Scholar_Connect.git
+1. //https://github.com/bcde123/college-management-system
 2. **Install dependencies:**
 
    ```bash
